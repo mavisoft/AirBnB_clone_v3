@@ -154,9 +154,10 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang) 
-Obed Ehoneah - [Github](https://github.com/ehoneahobed) / [Twitter](https://ehoneahobed.com/twitter)
+
+Obed Ehoneah - [Github](https://github.com/ehoneahobed) / [Twitter](https://ehoneahobed.com/twitter) 
 
 Iyoha Mavis - [Github](https://github.com/mavisoft) /[Twitter](https://twitter.com/mavis_iyoha)
 =======
